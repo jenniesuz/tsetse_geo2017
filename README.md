@@ -19,4 +19,5 @@ We suggest you open [this project file](tsetse_geo2017.Rproj) file in [R Studio]
 - [**r_fig_3_4.R**](r_fig_3_4.R) 
 - [**r_fig_5.R**](r_fig_5.R)
 - [**r_2015_trapdist.R**](r_2015_trapdist.R)
+Raster files of Landsat variables and elevation begin with 'env_var'. Shapefiles containing the locations and data for tsetse trap counts begin with 'gs' or 'gp'.
 
